@@ -2,16 +2,16 @@
 ___************************************   T A S K S   ************************************___
 
 
-01- C program to convert decimal to binary number system using bitwise operator
+01- Convert decimal to binary number system using bitwise operators
 
-02- C program to swap two numbers using bitwise operator
+02- Swap two numbers using bitwise operators
 
-03- C program to check even or odd using bitwise operator
+03- Check even or odd using bitwise operators
 
-04- C program to count leading zeros in a binary number
+04- Count leading zeros in a binary number
 
-05- C program to check whether a character is alphabet, digit or special character
+05- Check whether a character is an alphabet, a digit, or a special character
 
-06- C program to create calculator using switch case and functions
+06- Create a calculator using switch case and functions
 
-07- C program to find all roots of a quadratic equation
+07- Find the roots of a quadratic equation
